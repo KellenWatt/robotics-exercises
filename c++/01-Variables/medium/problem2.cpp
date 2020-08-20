@@ -1,6 +1,4 @@
 /*
- * This is a multiline comment. This is about the only place you should use one.
- *
  * Create 6 variables in main and give them initial values, one each, of the 
  * following types:
  *   - int
